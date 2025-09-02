@@ -278,31 +278,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="33%">
-        <a href="https://github.com/The-AdarshShukla/Smart-Adarsh-App">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=impriyanshu1210&repo=Smart-Adarsh-App&theme=dark" alt="Blind Assistant App">
-        </a>
-      </td>
-      <td width="33%">
-        <a href="https://github.com/The-AdarshShukla/mobileapp">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=The-AdarshShukla&repo=mobileapp&theme=dark" alt="Poetry Hub">
-        </a>
-      </td>
-      <td width="33%">
-        <a href="https://github.com/The-AdarshShukla/quiz-app">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=The-AdarshShukla&repo=quiz-app&theme=dark" alt="QuizMaster Pro">
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
 
 ### 📊 GitHub Contribution Graph
 <div align="center">
@@ -317,32 +292,6 @@
 
 
 ---
-
-## ✍️ Writing Portfolio
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <a href="https://The-AdarshShukla.github.io/poetry">
-          <img src="https://img.shields.io/badge/Hindi_Poetry-FF6B6B?style=for-the-badge&logo=bookstack&logoColor=white" alt="Hindi Poetry">
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://The-AdarshShukla.github.io/stories">
-          <img src="https://img.shields.io/badge/Short_Stories-4ECDC4?style=for-the-badge&logo=book&logoColor=white" alt="Short Stories">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <a href="https://The-AdarshShukla.github.io/blog">
-          <img src="https://img.shields.io/badge/Technical_Blog-556270?style=for-the-badge&logo=hashnode&logoColor=white" alt="Technical Blog">
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ---
 
