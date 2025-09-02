@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Satisfy&weight=600&size=36&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=👋+Hi+I'm+Adarsh+Shukla;Android+Dev+%7C+Poet+%7C+Coder;Open+Source+Enthusiast;Let's+Build+Something+Meaningful)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Satisfy&weight=600&size=36&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=👋+Hello +I'm+PRIYANSHU CHAUHAN;Android+Dev+%7C+Poet+%7C+Coder;Open+Source+Enthusiast;Let's+Build+Something+Meaningful)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,9 +23,9 @@
 ---
 <p align="center">
   <span>
-    <img src="https://komarev.com/ghpvc/?username=The-AdarshShukla&label=Profile+Visitors&style=for-the-badge&color=6c5ce7&cache_seconds=200" />
-    <img src="https://img.shields.io/github/followers/The-AdarshShukla?label=Followers&style=for-the-badge&logo=github&color=00b894&cache_seconds=200" />
-    <img src="https://img.shields.io/github/stars/The-AdarshShukla?label=Stars&style=for-the-badge&logo=github&color=f39c12&cache_seconds=200" />
+    <img src="https://komarev.com/ghpvc/?username=impriyanshu1210&label=Profile+Visitors&style=for-the-badge&color=6c5ce7&cache_seconds=200" />
+    <img src="https://img.shields.io/github/followers/impriyanshu1210?label=Followers&style=for-the-badge&logo=github&color=00b894&cache_seconds=200" />
+    <img src="https://img.shields.io/github/stars/impriyanshu1210?label=Stars&style=for-the-badge&logo=github&color=f39c12&cache_seconds=200" />
     <img src="https://img.shields.io/badge/Contributions-Active-blueviolet?style=for-the-badge&logo=github&cache_seconds=200" />
   </span>
 </p>
@@ -51,8 +51,8 @@
       <td width="50%">
         <ul>
           <li>💬 Ask me about <b>java, html,css , or Hindi Poetry</b></li>
-          <li>📫 How to reach me: <b>shuklaadarsh319@gmail.com</b></li>
-          <li>⚡ Fun fact: <b>I write code by day and poetry by night</b></li>
+          <li>📫 How to reach me: <b>priyanshu17724@gmail.com</b></li>
+          <li>⚡ Fun fact: <b>I write code by day.</b></li>
         </ul>
       </td>
     </tr>
@@ -234,10 +234,10 @@
  <!-- GitHub Stats -->
 <picture>
   <source media="(prefers-color-scheme: dark)" 
-          srcset="https://github-readme-stats.vercel.app/api?username=The-AdarshShukla&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=200">
+          srcset="https://github-readme-stats.vercel.app/api?username=impriyanshu1210&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=200">
   <source media="(prefers-color-scheme: light)" 
-          srcset="https://github-readme-stats.vercel.app/api?username=The-AdarshShukla&show_icons=true&theme=default&include_all_commits=true&count_private=true&cache_seconds=200">
-  <img src="https://github-readme-stats.vercel.app/api?username=The-AdarshShukla&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=200" 
+          srcset="https://github-readme-stats.vercel.app/api?username=impriyanshu1210&show_icons=true&theme=default&include_all_commits=true&count_private=true&cache_seconds=200">
+  <img src="https://github-readme-stats.vercel.app/api?username=impriyanshu1210&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=200" 
        alt="GitHub Stats" 
        width="350" 
        style="max-width: 100%; border-radius: 10px;">
@@ -259,7 +259,7 @@
  <!-- GitHub Streak Stats -->
 <!-- GitHub Streak Stats - Updated Version -->
 <img 
-  src="https://streak-stats.demolab.com?user=The-AdarshShukla&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D&cache_seconds=200"
+  src="https://streak-stats.demolab.com?user=impriyanshu1210&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D&cache_seconds=200"
   alt="GitHub Streak Stats"
   width="350"
   style="max-width: 100%;">
@@ -273,7 +273,7 @@
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=The-AdarshShukla&theme=onedark&no-frame=true&row=1&column=7&margin-w=15&margin-h=15&cache_seconds=200" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=impriyanshu1210&theme=onedark&no-frame=true&row=1&column=7&margin-w=15&margin-h=15&cache_seconds=200" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -285,7 +285,7 @@
     <tr>
       <td width="33%">
         <a href="https://github.com/The-AdarshShukla/Smart-Adarsh-App">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=The-AdarshShukla&repo=Smart-Adarsh-App&theme=dark" alt="Blind Assistant App">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=impriyanshu1210&repo=Smart-Adarsh-App&theme=dark" alt="Blind Assistant App">
         </a>
       </td>
       <td width="33%">
