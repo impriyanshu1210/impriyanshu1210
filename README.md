@@ -13,7 +13,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Satisfy&weight=600&size=36&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=👋+Hello+I'm+PRIYANSHU+CHAUHAN;Android+Dev+%7C+Poet+%7C+Coder;Open+Source+Enthusiast;Let's+Build+Something+Meaningful)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Satisfy&weight=600&size=36&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=👋+Hello+I'm+PRIYANSHU+CHAUHAN;Android+Dev+%7C+%7C+Coder;Open+Source+Enthusiast;Let's+Build+Something+Meaningful)
 
 </div>
 
