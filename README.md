@@ -282,13 +282,10 @@
 ### 📊 GitHub Contribution Graph
 <div align="center">
   <img 
-       src="https://github-readme-activity-graph.vercel.app/graph?username=The-AdarshShukla&theme=github-compact&custom_title=🔥%20PRIYANSHU %20Contribution%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f78166&area=true&hide_border=true&area_color=58a6ff&area_opacity=0.15&radius=8&cache_seconds=100" 
-       alt="PRIYANSHU 's Contribution Graph" 
+       src="https://github-readme-activity-graph.vercel.app/graph?username=The-AdarshShukla&theme=github-compact&custom_title=🔥%20PRIYANSHU's%20Contribution%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f78166&area=true&hide_border=true&area_color=58a6ff&area_opacity=0.15&radius=8&cache_seconds=110" 
+       alt="Adarsh's Contribution Graph" 
   />
 </div>
-
-
-
 
 
 ---
