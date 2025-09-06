@@ -4,7 +4,7 @@
   - Dynamic GitHub stats fetching 
   - Animated SVG snake game
   - Interactive badges
-
+  
   - Project cards with real data
   - Visitor counter
   - Social links with icons
